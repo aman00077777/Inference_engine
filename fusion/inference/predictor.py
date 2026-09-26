@@ -1,7 +1,7 @@
 """
 fusion/inference/predictor.py
 
-Phase 12 — Inference Engine: FusionPredictor (Owner: Phase 12 Team)
+Phase 12 — Inference Engine: FusionPredictor (Owner: Aman Sharma)
 
 Provides ``FusionPredictor``, the single-entry-point class for running
 inference with any trained ``BaseFusionModel``.  It handles device
